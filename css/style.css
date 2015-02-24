@@ -2,9 +2,96 @@
 All Sides to the Vaccine Controversy v.1
 Helina Selemon is the author of this page
 */
+
+body{
+	color: rgb(242.244.255);
+	font-family:'Calisto MT', Bookman,'Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+	padding:10px;
+}
+
 h1{
-	color: #86D7E8;
+	color: rgb(48.52.76); 
 	font-size: 60px;
 	text-align:center;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 
 	}
+p{
+	color: rgb(48.52.76);
+	font-size: 16px;
+	text-align: center;
+	font-family:'Calisto MT', Bookman,'Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+	border: 5px solid #EDFFDF;
+	width: 275px;
+	border-radius:10px;
+}
+
+i{
+	color:rgb(255.174.146);
+
+}
+
+div {
+	height:800
+	width:540
+	color:
+	;
+}
+
+li {
+	display: inline;
+	margin-right:10px;
+	color:rgb(168.204.139)
+}
+li.coming-soon {
+		display:none;
+		color:rgb(168.204.139)
+}
+
+<!--see page 320-->
+p.one{
+		box-shadow: -5px -5px #777777;
+		box-shadow: -5px -5px #777777;
+		box-shadow: -5px -5px #777777;
+	}
+
+p.two{
+		box-shadow: 0px 0px 10px #777777;
+		box-shadow: 0px 0px 10px #777777;
+		box-shadow: 0px 0px 10px #777777;
+	}
+p.three{
+		box-shadow: 5px 5px #777777;
+		box-shadow: 5px 5px #777777;
+		box-shadow: 5px 5px #777777;
+	}
+
+p.four{
+		box-shadow: 0px 0px 10px #777777;
+		box-shadow: 0px 0px 10px #777777;
+		box-shadow: 0px 0px 10px #777777;
+	}
+p.five{
+		box-shadow: 5px 5px 5px 5px #777777;
+		box-shadow: 5px 5px 5px 5px #777777;
+		box-shadow: 5px 5px 5px 5px #777777;
+}
+p.six{
+		box-shadow: -5px -5px #777777;
+		box-shadow: -5px -5px #777777;
+		box-shadow: -5px -5px #777777;
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
