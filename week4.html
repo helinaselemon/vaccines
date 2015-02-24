@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Week 4 - Positioning</title>
+  <style>
+  .box{
+    width:300px;
+    height:300px;
+    border:2px solid black;    
+     top:100px;
+    left:50x;
+    float: left;
+    margin-right:20px;
+  }
+  #red{
+    background-color:red;
+    float:left;
+    margin-right:30px;
+    margin-bottom:20px;
+    position:fixed;
+    z-index:105;
+    right:0px;
+    top:20px;
+  }
+  #green{
+    background-color:green;
+    position:absolute;
+    top:0;
+    right:10;
+    margin-bottom:20px;
+    }
+  #blue{
+    background-color:blue;
+    position:fixed;
+    top:20px;
+    left:20px;
+  }
+<!--text should be absolute to sit above images--> 
+
+  </style>
+</head>
+<body>
+  <div id="position">
+    <h1>How to Position</h1>
+    <div id="boxes">
+    <div class="box" id="red"> </div>
+    <div class="box" id="green"> </div>
+    <div class="box" id="blue"> </div>
+  </div>
+  </div>
+</body>
+</html>
